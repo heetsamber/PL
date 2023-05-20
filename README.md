@@ -40,7 +40,7 @@
 
 
 ## Android
-#### [안드로이드 지식] (https://github.com/heetsamber/Andriod_Study)
+#### [안드로이드 지식](https://github.com/heetsamber/Andriod_Study)
 
 
 ## Go
