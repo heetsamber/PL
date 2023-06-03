@@ -25,6 +25,7 @@
 
 ## C#
 #### [More Effective C#](https://github.com/Milkis2022/C_Sharp-Study/tree/main/More_Effective)
+#### [Effective C#]()
 
 
 ## Javascript
@@ -42,6 +43,11 @@
 ## Android
 #### [안드로이드 지식](https://github.com/heetsamber/Andriod_Study)
 
+## Unity
+#### [유니티 정리]()
+
+## 리버싱
+#### 
 
 ## Go
 
