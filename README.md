@@ -2,6 +2,7 @@
 
 
 ## Java
+#### [Java 기본지식](https://github.com/heetsamber/java_study)
 #### [effective Java](https://github.com/heetsamber/effective_java)
 #### [Clean Code](https://github.com/heetsamber/Clean_Code)
 #### [GOF 디자인 패턴](https://github.com/heetsamber/Design-Patterns-in-Java)
