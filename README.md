@@ -10,6 +10,7 @@
 
 ## Kotlin
 
+#### [코틀린 기본지식](https://github.com/heetsamber/Kotlin_info)
 #### [GOF 디자인 패턴](https://github.com/heetsamber/Kotlin-DesignPatterns)
 #### [Algorithm in Kotlin](https://github.com/heetsamber/Algorithm-in-Java-Kotlin/tree/main/Kotlin)
 
