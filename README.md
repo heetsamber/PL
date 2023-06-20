@@ -23,6 +23,7 @@
 
 ## Python
 #### [Python 정리](https://github.com/eunhatbe/Python_Study/tree/main/Other)
+#### [전문가를 위한 파이썬](https://github.com/eunhatbe/Python_Study/tree/main/Python_Book/fluent_python)
 
 
 ## C#
