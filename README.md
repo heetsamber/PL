@@ -57,7 +57,7 @@
 ## Rust
 
 ## 알고리즘 자료구조
-#### [Algorithm in JAVA](https://github.com/heetsamber/Algorithm-in-Java-Kotlin/tree/main/Java)\
+#### [Algorithm in JAVA](https://github.com/heetsamber/Algorithm-in-Java-Kotlin/tree/main/Java)
 #### [Algorithm in Kotlin](https://github.com/heetsamber/Algorithm-in-Java-Kotlin/tree/main/Kotlin)
 #### [Algorithm in Python]()
 #### [C++ 자료구조]()
