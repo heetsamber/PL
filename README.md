@@ -6,13 +6,11 @@
 #### [effective Java](https://github.com/heetsamber/effective_java)
 #### [Clean Code](https://github.com/heetsamber/Clean_Code)
 #### [GOF 디자인 패턴](https://github.com/heetsamber/Design-Patterns-in-Java)
-#### [Algorithm in JAVA](https://github.com/heetsamber/Algorithm-in-Java-Kotlin/tree/main/Java)
 
 ## Kotlin
 
 #### [코틀린 기본지식](https://github.com/heetsamber/Kotlin_info)
 #### [GOF 디자인 패턴](https://github.com/heetsamber/Kotlin-DesignPatterns)
-#### [Algorithm in Kotlin](https://github.com/heetsamber/Algorithm-in-Java-Kotlin/tree/main/Kotlin)
 
 ## C++
 #### [전문가를 위한 C++](https://github.com/BitaminW/cpp_guideline/tree/main/expert_cpp/chapter01)
@@ -57,6 +55,14 @@
 ## Go
 
 ## Rust
+
+## 알고리즘 자료구조
+#### [Algorithm in JAVA](https://github.com/heetsamber/Algorithm-in-Java-Kotlin/tree/main/Java)\
+#### [Algorithm in Kotlin](https://github.com/heetsamber/Algorithm-in-Java-Kotlin/tree/main/Kotlin)
+#### [Algorithm in Python]()
+#### [C++ 자료구조]()
+#### [파이썬 알고리즘 책 정리]()
+
 
 ## Window
 #### [Win32 API 정리]()
