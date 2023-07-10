@@ -26,7 +26,7 @@
 
 ## C#
 #### [More Effective C#](https://github.com/Milkis2022/C_Sharp-Study/tree/main/More_Effective)
-#### [Effective C#]()
+#### [Effective C#](https://github.com/Milkis2022/C_Sharp-Study/tree/main/Effective_CSharp)
 
 
 ## Javascript
