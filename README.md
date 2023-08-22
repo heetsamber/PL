@@ -40,6 +40,8 @@
 
 #### [JS 정리](https://github.com/hindong/JS_issue/tree/main)
 
+#### [모던 JS DEEP DIVE](https://github.com/hindong/JS_issue/tree/main/DeepDive)
+
 #### [express 예제](https://github.com/hindong/express_lecture)
 
 
