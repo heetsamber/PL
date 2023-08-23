@@ -75,4 +75,4 @@
 
 ## Other
 #### [파이썬 암호학]()
-#### [C++ 게임프로그래밍의 정석]()
+#### [C++ 게임프로그래밍의 정석](https://github.com/BitaminW/Game-Example)
